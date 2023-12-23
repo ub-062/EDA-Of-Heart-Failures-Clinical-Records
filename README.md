@@ -33,7 +33,7 @@ This GitHub repository contains exploratory data analysis on a important healthc
 1. Clone the repository:
 
 ```bash
-https://github.com/ub-062/Exploratory-Data-Analysis.git
+gh repo clone ub-062/EDA-Of-Heart-Failures-Clinical-Records
 ```
 
 2. Install the required dependencies:
