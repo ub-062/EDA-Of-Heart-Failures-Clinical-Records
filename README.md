@@ -33,8 +33,7 @@ This GitHub repository contains exploratory data analysis on a important healthc
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ub-062/healthcare-eda.git
-cd healthcare-eda
+https://github.com/ub-062/Exploratory-Data-Analysis.git
 ```
 
 2. Install the required dependencies:
