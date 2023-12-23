@@ -26,10 +26,6 @@ This GitHub repository contains exploratory data analysis on a important healthc
   - `data`: Folder for storing the dataset (`heart_failure_clinical_records.csv`).
   - `notebooks`: Jupyter notebook (`heart failure.ipynb`) with the EDA code.
 
-- `Diabetes_India_Analysis`: Contains the analysis for diabetes stature in India.
-  - `data`: Folder for storing the dataset (`diabetes.csv`).
-  - `notebooks`: Jupyter notebook (`Diabetes.ipynb`) with the EDA code.
-
 - `README.md`: Overview and guide for the repository.
 
 ## Getting Started
