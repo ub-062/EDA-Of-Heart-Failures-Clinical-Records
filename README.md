@@ -73,5 +73,3 @@ If you find any issues or have suggestions for improvement, please open an issue
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to add more sections or modify the structure based on the specific details of your analysis and the content you want to include in the README file.
