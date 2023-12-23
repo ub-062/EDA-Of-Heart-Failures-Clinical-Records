@@ -1,16 +1,15 @@
 # Exploratory-Data-Analysis
 
-This repository contains E.D.A on two sets 
+This repository contains E.D.A on 
   -  Heart Failure Clinical Records
-  -  Diabetes Stature in India
 
 This data-driven exploration contributes to a nuanced understanding of the disease but also holds the potential to shape more effective strategies for prevention, diagnosis, and management in the pursuit of improved patient outcomes and healthcare delivery.
 
-# Exploratory Data Analysis on Heart Failure Clinical Records and Diabetes Stature in India
+# Exploratory Data Analysis on Heart Failure Clinical Records
 
 ## Overview
 
-This GitHub repository contains exploratory data analysis on two important healthcare topics: "Heart Failure Clinical Records" and "Diabetes Stature in India." The analysis is conducted using Python programming language and popular data science libraries.(Jupiter Notebook)
+This GitHub repository contains exploratory data analysis on a important healthcare topic: "Heart Failure Clinical Records". The analysis is conducted using Python programming language and popular data science libraries.(pandas)
 
 ## Project Structure
 
@@ -20,11 +19,6 @@ This GitHub repository contains exploratory data analysis on two important healt
 |   |   |-- heart_failure_records.csv
 |   |-- notebooks
 |   |   |-- Heart_Failure_EDA.ipynb
-|-- Diabetes_India_Analysis
-|   |-- data
-|   |   |-- diabetes_india_data.csv
-|   |-- notebooks
-|   |   |-- Diabetes_India_EDA.ipynb
 |-- README.md
 ```
 
@@ -55,14 +49,13 @@ pip install -r requirements.txt
 
 3. Explore the datasets and run the Jupyter notebooks in the `notebooks` directory.
 
-## Datasets
+## Dataset
 
 - [Heart Failure Clinical Records](https://www.kaggle.com/datasets/bhavikjikadara/heart-failure-prediction/data)
-- [Diabetes Stature in India](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Results and Insights
 
-The exploratory data analysis provides insights into the patterns, trends, and correlations present in the heart failure clinical records and diabetes stature in India datasets. Key findings are documented in the respective Jupyter notebooks.
+The exploratory data analysis provides insights into the patterns, trends, and correlations present in the heart failure clinical records dataset.Key findings are documented in the respective Jupyter notebooks.
 
 ## Contributing
 
